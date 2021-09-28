@@ -10,3 +10,15 @@ C:\Users\Sandra\Desktop\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\D
 C:\Users\Sandra\Desktop\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
 C:\Users\Sandra\Desktop\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
 C:\Users\Sandra\Desktop\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+C:\Users\Sandra\Desktop\Proyectos ciclo 3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb

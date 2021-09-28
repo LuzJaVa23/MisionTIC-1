@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+HsCchcNRrRu+iBAk5uKe0neqnNm6HTmpvDqe8ry3JufdqiA9bEwFeUFXAmIRHx2Vwge+tjG2TuKvENPNq89g==",
+  "dgSpecHash": "9CiLcyF/oLfU+ghjb9lPHlfxulN0xmszyeRhsMC8rieGMMcHsnbFv49g05PXwyshkKMQNofmPUKE6pX0jKBCXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandra\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+  "projectFilePath": "C:\\Users\\Sandra\\Desktop\\Proyectos ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Sandra\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

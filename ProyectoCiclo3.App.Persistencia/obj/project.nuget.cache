@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVlzkHcLWW15E/hw4TUlB+hzi7bxBiwFJnmNxP0NMEyfi7g7ledJkgWrUqaHI7v17puNVtDt3mG9dnmsRbTIdw==",
+  "dgSpecHash": "e4yBpSec4AV9PPRrphiAVqDFn/DTdlYcjUtemEa7h/c7JhK//oPccv1L5fxH+ouZochbL5doSJfxUcUHQhgNUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandra\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Sandra\\Desktop\\Proyectos ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sandra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

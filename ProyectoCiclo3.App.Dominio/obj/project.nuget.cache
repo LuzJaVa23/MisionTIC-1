@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3E3rmVpjQ8oE0ERAfycVMqdoIGZwZfn/OFEWdTPvW0u+QcjCASDiqGu9STbu+3yIUIpHQt0gMRk7bhNNGd5VKQ==",
+  "dgSpecHash": "pO7BtSh4zreQDWTfsg5KtfvZpbxk02gEBEKAYMQgjUT/leNNmT25d5rUycuW5XLfjfh1B/kh10iovreSoxurhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sandra\\Desktop\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\Sandra\\Desktop\\Proyectos ciclo 3\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sandra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Sandra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
